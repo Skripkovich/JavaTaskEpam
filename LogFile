@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-08-24T16:26:04.391336400Z</date>
+  <millis>1566663964391</millis>
+  <nanos>336400</nanos>
+  <sequence>0</sequence>
+  <logger>programmingWithClasses.aggregationAndComposition.voucher.Main</logger>
+  <level>WARNING</level>
+  <class>programmingWithClasses.aggregationAndComposition.voucher.VoucherList</class>
+  <method>createVoucherList</method>
+  <thread>1</thread>
+  <message>Неверные данные в файле! </message>
+</record>
+<record>
+  <date>2019-08-24T16:26:04.439346400Z</date>
+  <millis>1566663964439</millis>
+  <nanos>346400</nanos>
+  <sequence>1</sequence>
+  <logger>programmingWithClasses.aggregationAndComposition.voucher.Main</logger>
+  <level>WARNING</level>
+  <class>programmingWithClasses.aggregationAndComposition.voucher.VoucherList</class>
+  <method>createVoucherList</method>
+  <thread>1</thread>
+  <message>Неверные данные в файле! </message>
+</record>
+<record>
+  <date>2019-08-24T16:26:04.440347300Z</date>
+  <millis>1566663964440</millis>
+  <nanos>347300</nanos>
+  <sequence>2</sequence>
+  <logger>programmingWithClasses.aggregationAndComposition.voucher.Main</logger>
+  <level>WARNING</level>
+  <class>programmingWithClasses.aggregationAndComposition.voucher.VoucherList</class>
+  <method>createVoucherList</method>
+  <thread>1</thread>
+  <message>Неверные данные в файле! </message>
+</record>
+<record>
+  <date>2019-08-24T16:26:04.441348600Z</date>
+  <millis>1566663964441</millis>
+  <nanos>348600</nanos>
+  <sequence>3</sequence>
+  <logger>programmingWithClasses.aggregationAndComposition.voucher.Main</logger>
+  <level>WARNING</level>
+  <class>programmingWithClasses.aggregationAndComposition.voucher.VoucherList</class>
+  <method>createVoucherList</method>
+  <thread>1</thread>
+  <message>Неверные данные в файле! </message>
+</record>
+<record>
+  <date>2019-08-24T16:26:04.441348600Z</date>
+  <millis>1566663964441</millis>
+  <nanos>348600</nanos>
+  <sequence>4</sequence>
+  <logger>programmingWithClasses.aggregationAndComposition.voucher.Main</logger>
+  <level>WARNING</level>
+  <class>programmingWithClasses.aggregationAndComposition.voucher.VoucherList</class>
+  <method>createVoucherList</method>
+  <thread>1</thread>
+  <message>Неверные данные в файле! </message>
+</record>
+<record>
+  <date>2019-08-24T16:26:04.442348500Z</date>
+  <millis>1566663964442</millis>
+  <nanos>348500</nanos>
+  <sequence>5</sequence>
+  <logger>programmingWithClasses.aggregationAndComposition.voucher.Main</logger>
+  <level>WARNING</level>
+  <class>programmingWithClasses.aggregationAndComposition.voucher.VoucherList</class>
+  <method>createVoucherList</method>
+  <thread>1</thread>
+  <message>Неверные данные в файле! </message>
+</record>
+<record>
+  <date>2019-08-24T16:26:04.443348800Z</date>
+  <millis>1566663964443</millis>
+  <nanos>348800</nanos>
+  <sequence>6</sequence>
+  <logger>programmingWithClasses.aggregationAndComposition.voucher.Main</logger>
+  <level>WARNING</level>
+  <class>programmingWithClasses.aggregationAndComposition.voucher.VoucherList</class>
+  <method>createVoucherList</method>
+  <thread>1</thread>
+  <message>Неверные данные в файле! </message>
+</record>
+<record>
+  <date>2019-08-24T16:26:04.444348800Z</date>
+  <millis>1566663964444</millis>
+  <nanos>348800</nanos>
+  <sequence>7</sequence>
+  <logger>programmingWithClasses.aggregationAndComposition.voucher.Main</logger>
+  <level>WARNING</level>
+  <class>programmingWithClasses.aggregationAndComposition.voucher.VoucherList</class>
+  <method>createVoucherList</method>
+  <thread>1</thread>
+  <message>Неверные данные в файле! </message>
+</record>
+<record>
+  <date>2019-08-24T16:26:04.444348800Z</date>
+  <millis>1566663964444</millis>
+  <nanos>348800</nanos>
+  <sequence>8</sequence>
+  <logger>programmingWithClasses.aggregationAndComposition.voucher.Main</logger>
+  <level>WARNING</level>
+  <class>programmingWithClasses.aggregationAndComposition.voucher.VoucherList</class>
+  <method>createVoucherList</method>
+  <thread>1</thread>
+  <message>Неверные данные в файле! </message>
+</record>
+<record>
+  <date>2019-08-24T16:26:04.445348400Z</date>
+  <millis>1566663964445</millis>
+  <nanos>348400</nanos>
+  <sequence>9</sequence>
+  <logger>programmingWithClasses.aggregationAndComposition.voucher.Main</logger>
+  <level>WARNING</level>
+  <class>programmingWithClasses.aggregationAndComposition.voucher.VoucherList</class>
+  <method>createVoucherList</method>
+  <thread>1</thread>
+  <message>Неверные данные в файле! </message>
+</record>
+<record>
+  <date>2019-08-24T16:26:04.446348300Z</date>
+  <millis>1566663964446</millis>
+  <nanos>348300</nanos>
+  <sequence>10</sequence>
+  <logger>programmingWithClasses.aggregationAndComposition.voucher.Main</logger>
+  <level>WARNING</level>
+  <class>programmingWithClasses.aggregationAndComposition.voucher.VoucherList</class>
+  <method>createVoucherList</method>
+  <thread>1</thread>
+  <message>Неверные данные в файле! </message>
+</record>
+<record>
+  <date>2019-08-24T16:26:04.446348300Z</date>
+  <millis>1566663964446</millis>
+  <nanos>348300</nanos>
+  <sequence>11</sequence>
+  <logger>programmingWithClasses.aggregationAndComposition.voucher.Main</logger>
+  <level>WARNING</level>
+  <class>programmingWithClasses.aggregationAndComposition.voucher.VoucherList</class>
+  <method>createVoucherList</method>
+  <thread>1</thread>
+  <message>Неверные данные в файле! </message>
+</record>
+<record>
+  <date>2019-08-24T16:26:04.447348600Z</date>
+  <millis>1566663964447</millis>
+  <nanos>348600</nanos>
+  <sequence>12</sequence>
+  <logger>programmingWithClasses.aggregationAndComposition.voucher.Main</logger>
+  <level>WARNING</level>
+  <class>programmingWithClasses.aggregationAndComposition.voucher.VoucherList</class>
+  <method>createVoucherList</method>
+  <thread>1</thread>
+  <message>Неверные данные в файле! </message>
+</record>
+<record>
+  <date>2019-08-24T16:26:04.448349200Z</date>
+  <millis>1566663964448</millis>
+  <nanos>349200</nanos>
+  <sequence>13</sequence>
+  <logger>programmingWithClasses.aggregationAndComposition.voucher.Main</logger>
+  <level>WARNING</level>
+  <class>programmingWithClasses.aggregationAndComposition.voucher.VoucherList</class>
+  <method>createVoucherList</method>
+  <thread>1</thread>
+  <message>Неверные данные в файле! </message>
+</record>
+<record>
+  <date>2019-08-24T16:26:04.448349200Z</date>
+  <millis>1566663964448</millis>
+  <nanos>349200</nanos>
+  <sequence>14</sequence>
+  <logger>programmingWithClasses.aggregationAndComposition.voucher.Main</logger>
+  <level>WARNING</level>
+  <class>programmingWithClasses.aggregationAndComposition.voucher.VoucherList</class>
+  <method>createVoucherList</method>
+  <thread>1</thread>
+  <message>Неверные данные в файле! </message>
+</record>
+<record>
+  <date>2019-08-24T16:26:04.449349200Z</date>
+  <millis>1566663964449</millis>
+  <nanos>349200</nanos>
+  <sequence>15</sequence>
+  <logger>programmingWithClasses.aggregationAndComposition.voucher.Main</logger>
+  <level>WARNING</level>
+  <class>programmingWithClasses.aggregationAndComposition.voucher.VoucherList</class>
+  <method>createVoucherList</method>
+  <thread>1</thread>
+  <message>Неверные данные в файле! </message>
+</record>
+<record>
+  <date>2019-08-24T16:26:04.449349200Z</date>
+  <millis>1566663964449</millis>
+  <nanos>349200</nanos>
+  <sequence>16</sequence>
+  <logger>programmingWithClasses.aggregationAndComposition.voucher.Main</logger>
+  <level>WARNING</level>
+  <class>programmingWithClasses.aggregationAndComposition.voucher.VoucherList</class>
+  <method>createVoucherList</method>
+  <thread>1</thread>
+  <message>Неверные данные в файле! </message>
+</record>
+<record>
+  <date>2019-08-24T16:26:04.450349100Z</date>
+  <millis>1566663964450</millis>
+  <nanos>349100</nanos>
+  <sequence>17</sequence>
+  <logger>programmingWithClasses.aggregationAndComposition.voucher.Main</logger>
+  <level>WARNING</level>
+  <class>programmingWithClasses.aggregationAndComposition.voucher.VoucherList</class>
+  <method>createVoucherList</method>
+  <thread>1</thread>
+  <message>Неверные данные в файле! </message>
+</record>
+<record>
+  <date>2019-08-24T16:26:04.451351Z</date>
+  <millis>1566663964451</millis>
+  <nanos>351000</nanos>
+  <sequence>18</sequence>
+  <logger>programmingWithClasses.aggregationAndComposition.voucher.Main</logger>
+  <level>WARNING</level>
+  <class>programmingWithClasses.aggregationAndComposition.voucher.VoucherList</class>
+  <method>createVoucherList</method>
+  <thread>1</thread>
+  <message>Неверные данные в файле! </message>
+</record>
+<record>
+  <date>2019-08-24T16:26:04.451351Z</date>
+  <millis>1566663964451</millis>
+  <nanos>351000</nanos>
+  <sequence>19</sequence>
+  <logger>programmingWithClasses.aggregationAndComposition.voucher.Main</logger>
+  <level>WARNING</level>
+  <class>programmingWithClasses.aggregationAndComposition.voucher.VoucherList</class>
+  <method>createVoucherList</method>
+  <thread>1</thread>
+  <message>Неверные данные в файле! </message>
+</record>
+<record>
+  <date>2019-08-24T16:26:04.452350600Z</date>
+  <millis>1566663964452</millis>
+  <nanos>350600</nanos>
+  <sequence>20</sequence>
+  <logger>programmingWithClasses.aggregationAndComposition.voucher.Main</logger>
+  <level>WARNING</level>
+  <class>programmingWithClasses.aggregationAndComposition.voucher.VoucherList</class>
+  <method>createVoucherList</method>
+  <thread>1</thread>
+  <message>Неверные данные в файле! </message>
+</record>
+<record>
+  <date>2019-08-24T16:26:04.452350600Z</date>
+  <millis>1566663964452</millis>
+  <nanos>350600</nanos>
+  <sequence>21</sequence>
+  <logger>programmingWithClasses.aggregationAndComposition.voucher.Main</logger>
+  <level>WARNING</level>
+  <class>programmingWithClasses.aggregationAndComposition.voucher.VoucherList</class>
+  <method>createVoucherList</method>
+  <thread>1</thread>
+  <message>Неверные данные в файле! </message>
+</record>
+<record>
+  <date>2019-08-24T16:26:04.453351900Z</date>
+  <millis>1566663964453</millis>
+  <nanos>351900</nanos>
+  <sequence>22</sequence>
+  <logger>programmingWithClasses.aggregationAndComposition.voucher.Main</logger>
+  <level>WARNING</level>
+  <class>programmingWithClasses.aggregationAndComposition.voucher.VoucherList</class>
+  <method>createVoucherList</method>
+  <thread>1</thread>
+  <message>Неверные данные в файле! </message>
+</record>
+<record>
+  <date>2019-08-24T16:26:04.453351900Z</date>
+  <millis>1566663964453</millis>
+  <nanos>351900</nanos>
+  <sequence>23</sequence>
+  <logger>programmingWithClasses.aggregationAndComposition.voucher.Main</logger>
+  <level>WARNING</level>
+  <class>programmingWithClasses.aggregationAndComposition.voucher.VoucherList</class>
+  <method>createVoucherList</method>
+  <thread>1</thread>
+  <message>Неверные данные в файле! </message>
+</record>
+<record>
+  <date>2019-08-24T16:26:04.454351800Z</date>
+  <millis>1566663964454</millis>
+  <nanos>351800</nanos>
+  <sequence>24</sequence>
+  <logger>programmingWithClasses.aggregationAndComposition.voucher.Main</logger>
+  <level>WARNING</level>
+  <class>programmingWithClasses.aggregationAndComposition.voucher.VoucherList</class>
+  <method>createVoucherList</method>
+  <thread>1</thread>
+  <message>Неверные данные в файле! </message>
+</record>
+<record>
+  <date>2019-08-24T16:26:04.454351800Z</date>
+  <millis>1566663964454</millis>
+  <nanos>351800</nanos>
+  <sequence>25</sequence>
+  <logger>programmingWithClasses.aggregationAndComposition.voucher.Main</logger>
+  <level>WARNING</level>
+  <class>programmingWithClasses.aggregationAndComposition.voucher.VoucherList</class>
+  <method>createVoucherList</method>
+  <thread>1</thread>
+  <message>Неверные данные в файле! </message>
+</record>
+<record>
+  <date>2019-08-24T16:26:04.455352100Z</date>
+  <millis>1566663964455</millis>
+  <nanos>352100</nanos>
+  <sequence>26</sequence>
+  <logger>programmingWithClasses.aggregationAndComposition.voucher.Main</logger>
+  <level>WARNING</level>
+  <class>programmingWithClasses.aggregationAndComposition.voucher.VoucherList</class>
+  <method>createVoucherList</method>
+  <thread>1</thread>
+  <message>Неверные данные в файле! </message>
+</record>
+<record>
+  <date>2019-08-24T16:26:04.456351700Z</date>
+  <millis>1566663964456</millis>
+  <nanos>351700</nanos>
+  <sequence>27</sequence>
+  <logger>programmingWithClasses.aggregationAndComposition.voucher.Main</logger>
+  <level>WARNING</level>
+  <class>programmingWithClasses.aggregationAndComposition.voucher.VoucherList</class>
+  <method>createVoucherList</method>
+  <thread>1</thread>
+  <message>Неверные данные в файле! </message>
+</record>
+<record>
+  <date>2019-08-24T16:26:04.456351700Z</date>
+  <millis>1566663964456</millis>
+  <nanos>351700</nanos>
+  <sequence>28</sequence>
+  <logger>programmingWithClasses.aggregationAndComposition.voucher.Main</logger>
+  <level>WARNING</level>
+  <class>programmingWithClasses.aggregationAndComposition.voucher.VoucherList</class>
+  <method>createVoucherList</method>
+  <thread>1</thread>
+  <message>Неверные данные в файле! </message>
+</record>
+<record>
+  <date>2019-08-24T16:26:04.456351700Z</date>
+  <millis>1566663964456</millis>
+  <nanos>351700</nanos>
+  <sequence>29</sequence>
+  <logger>programmingWithClasses.aggregationAndComposition.voucher.Main</logger>
+  <level>WARNING</level>
+  <class>programmingWithClasses.aggregationAndComposition.voucher.VoucherList</class>
+  <method>createVoucherList</method>
+  <thread>1</thread>
+  <message>Неверные данные в файле! </message>
+</record>
+<record>
+  <date>2019-08-24T16:26:04.457351100Z</date>
+  <millis>1566663964457</millis>
+  <nanos>351100</nanos>
+  <sequence>30</sequence>
+  <logger>programmingWithClasses.aggregationAndComposition.voucher.Main</logger>
+  <level>WARNING</level>
+  <class>programmingWithClasses.aggregationAndComposition.voucher.VoucherList</class>
+  <method>createVoucherList</method>
+  <thread>1</thread>
+  <message>Неверные данные в файле! </message>
+</record>

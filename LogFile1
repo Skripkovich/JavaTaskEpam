@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE log SYSTEM "logger.dtd">
+<log>
+<record>
+  <date>2019-08-24T16:28:54.050296200Z</date>
+  <millis>1566664134050</millis>
+  <nanos>296200</nanos>
+  <sequence>0</sequence>
+  <logger>programmingWithClasses.aggregationAndComposition.voucher.Main</logger>
+  <level>WARNING</level>
+  <class>programmingWithClasses.aggregationAndComposition.voucher.VoucherList</class>
+  <method>createVoucherList</method>
+  <thread>1</thread>
+  <message>Неверная страна</message>
+</record>
+</log>
